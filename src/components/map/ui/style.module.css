@@ -1,0 +1,16 @@
+#container_info_earth{
+    height: 10px;
+    border: none;
+    background: transparent;
+    width:100%;
+    max-width: 420px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    
+}
+
+#container_grafic{
+    height: 50px;
+}
